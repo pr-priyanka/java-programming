@@ -88,5 +88,6 @@ public class ComplexNumbers {
 		int imag=-this.imag;
 		return new ComplexNumbers(this.real, imag);
 	}
+}
 	
 }
